@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethical Hacking](/pdf/defense.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Cyber Defense**  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Purposes of Copyright](/pdf/scripting.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Survey of Scripting Languages** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Adblocker](/pdf/procedural.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Procedural Programming** 
+-   **Grade: B**
 
 ---
 
