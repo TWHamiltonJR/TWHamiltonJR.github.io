@@ -55,7 +55,7 @@ Presentations
 
 - **Class: Cyber Defense** 
 - **Grade: A**
-
+![Project 4 Thumbnail Name](/pdf/cyberdefense.pdf)
 
 ### [Presentation 2 Title](/pdf/principles.pdf)
 
