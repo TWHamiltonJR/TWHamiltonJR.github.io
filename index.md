@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/cyberdefense.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Cyber Defense** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/principles.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Principles of Cybersecurity** 
+- **Grade: B**
 
 ---
 
