@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethical Hacking](/pdf/defense.pdf)
+### [Ethics Paper](/pdf/defense.pdf)
 
 -   **Class: Cyber Defense**  
 -   **Grade: A**
