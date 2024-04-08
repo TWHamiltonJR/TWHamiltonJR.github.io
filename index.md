@@ -55,12 +55,11 @@ Presentations
 
 - **Class: Cyber Defense** 
 - **Grade: A**
-![Project 4 Thumbnail Name](/pdf/cyberdefense.pdf)
 
-### [Presentation 2 Title](/pdf/principles.pdf)
+### [Presentation 2 Title](/pdf/scripting.pdf)
 
-- **Class: Principles of Cybersecurity** 
-- **Grade: B**
+- **Class: Survey of Scripting Languages** 
+- **Grade: A**
 
 ---
 
