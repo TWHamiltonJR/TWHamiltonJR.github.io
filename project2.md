@@ -3,15 +3,15 @@
 
 ===============
 
--   **Class: Survey of Scripting Languages** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: Applied Networking** 
+-   **Grade: A** 
+-   **Language(s): Python** 
 -   **Source Code Repository:** [features/mastering-markdown](https://github.com/TWHamiltonJR/Right-Triangle)  
     (Please [email me](mailto:twhamilton@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This code calculates the hypotenuse and the surface are of a given right triangle with dimensions given by the user.
+This python script sends an email to the designated address through the email provided.
 
 ## How to compile and run the program
 
@@ -19,7 +19,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project
-python Right_triangle.py
+python newsmtp.py
 ```
 
 ## UI Design
