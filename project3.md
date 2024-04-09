@@ -18,8 +18,8 @@ This java file asks the user to input two numbers in two separate gui fields and
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python newsmtp.py
+download jar file from repository
+run jar file
 ```
 
 ## UI Design
