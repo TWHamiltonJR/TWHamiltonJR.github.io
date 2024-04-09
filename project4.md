@@ -4,7 +4,7 @@
 ===============
 
 -   **Class: Computer Architecture** 
--   **Grade: B** 
+-   **Grade: In class presently** 
 -   **Language(s): Assembly** 
 -   **Source Code Repository:** [Source Repository](https://github.com/TWHamiltonJR/Assembly_Calculator)    
     (Please [email me](mailto:twhamilton@csustudent.net?subject=GitHub%20Access) to request access.)
