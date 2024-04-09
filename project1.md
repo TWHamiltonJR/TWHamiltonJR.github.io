@@ -29,13 +29,13 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 ![screenshot](images/launch.PNG)  
 Fig 1. The launch screen
-
+The program launches and asks you the length of the baseline and the height.
 ![screenshot](images/output.PNG)  
 Fig 2. Example output after input is processed.
-
+It then shows the baseline length and height and then changes it to a set value to show it can.
 ![screenshot](images/error.PNG)  
 Fig 3. Feedback when an error occurs.
-
+This error is when you attmept to input a non integer value into either the input lines.
 ## 3. Additional Considerations
 
 
