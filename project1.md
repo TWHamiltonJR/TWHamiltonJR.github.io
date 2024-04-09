@@ -4,9 +4,9 @@ Right Triangle
 ===============
 
 -   **Class: Survey of Scripting Languages** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/TWHamiltonJR/Right-Triangle)  
+-   **Grade: A** 
+-   **Language(s): Python** 
+-   **Source Code Repository:** [Source Repository](https://github.com/TWHamiltonJR/Right-Triangle)  
     (Please [email me](mailto:twhamilton@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
