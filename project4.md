@@ -18,6 +18,7 @@ This assembly file asks the user to input two numbers and it will add them toget
 How to compile (if applicable) and run the project.
 
 ```bash
+cd ../project4
 ./output.o [number1] [number2]
 ```
 
