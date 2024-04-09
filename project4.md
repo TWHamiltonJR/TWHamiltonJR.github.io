@@ -28,14 +28,14 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 
 ![screenshot](images/launch4.PNG)  
-Fig 1. The launch screen
+Fig 1. The launch screen which is just the terminal about to execute the program with the numbers 3 and 4 inputted.
 
 ![screenshot](images/output4.PNG)  
 Fig 2. Example output after input is processed.
-
+It shows that the sum of the 2 numbers is 7 correctly.
 ![screenshot](images/error4.PNG)  
 Fig 3. Feedback when an error occurs.
-
+This error occurs when you do not put in two numbers. If you put in a non numerical value it defaults that number to 0.
 ## 3. Additional Considerations
 
 
