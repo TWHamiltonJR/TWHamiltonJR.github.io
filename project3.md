@@ -35,7 +35,7 @@ Fig 2. Example output after input is processed.
 After inputting the numbers and clicking add it adds them and outputs the answer in the appropriate field.
 ![screenshot](images/error3.PNG)  
 Fig 3. Feedback when an error occurs.
-This error occurs when you try to input a non numerical number. This shows only on the terminal side and will the user to try again until a number is entered.
+This error occurs when you try to input a non numerical number. This shows only on the terminal side and will allow the user to try again until a number is entered.
 ## 3. Additional Considerations
 
 
