@@ -36,9 +36,5 @@ It then at the end will tell you that it is finished to alert you that it is don
 ![screenshot](images/error2.PNG)  
 Fig 3. Feedback when an error occurs.
 This happens when either the username or password is incorrect.
-## 3. Additional Considerations
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
