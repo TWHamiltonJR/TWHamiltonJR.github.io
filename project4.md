@@ -36,9 +36,5 @@ It shows that the sum of the 2 numbers is 7 correctly.
 ![screenshot](images/error4.PNG)  
 Fig 3. Feedback when an error occurs.
 This error occurs when you do not put in two numbers. If you put in a non numerical value it defaults that number to 0.
-## 3. Additional Considerations
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
