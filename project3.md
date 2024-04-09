@@ -36,9 +36,5 @@ After inputting the numbers and clicking add it adds them and outputs the answer
 ![screenshot](images/error3.PNG)  
 Fig 3. Feedback when an error occurs.
 This error occurs when you try to input a non numerical number. This shows only on the terminal side and will allow the user to try again until a number is entered.
-## 3. Additional Considerations
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
