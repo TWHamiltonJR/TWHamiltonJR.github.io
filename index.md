@@ -16,7 +16,7 @@ Programming Projects
 ### [Calculator | CSCI 325](project3.md)
 
 ---
-### [Project 4 Title | CSCI 332](project4.md)
+### [Assembly Adding Integers | CSCI 330](project4.md)
 
 ---
 
