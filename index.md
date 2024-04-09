@@ -10,10 +10,10 @@ Programming Projects
 ### [Right Triangle | CSCI 301](project1.md)
 
 ---
-### [Email Messaging | CSCI 315](project2.md)
+### [Email Messaging | CSCI 332](project2.md)
 
 ---
-### [Project 3 Title | CSCI 325](project3.md)
+### [Calculator | CSCI 325](project3.md)
 
 ---
 ### [Project 4 Title | CSCI 332](project4.md)
