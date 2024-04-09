@@ -6,7 +6,7 @@
 -   **Class: Object-Oriented Programming** 
 -   **Grade: B+** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Source Repository](https://github.com/TWHamiltonJR/Email-Messaging/tree/main))  
+-   **Source Code Repository:** [Source Repository](https://github.com/TWHamiltonJR/Calculator)
     (Please [email me](mailto:twhamilton@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
