@@ -19,7 +19,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ../project4
-./output.o [number1] [number2]
+./output [number1] [number2]
 ```
 
 ## UI Design
