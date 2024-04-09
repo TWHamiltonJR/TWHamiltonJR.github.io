@@ -28,14 +28,14 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 
 ![screenshot](images/Emaillaunch.PNG)  
-Fig 1. The launch screen
+Fig 1. The launch screen It asks you for the username (the source email address) and the password. It then asks you for the password, the recipient email, the subject of the email, and the message of the email.
 
 ![screenshot](images/Emailoutput.PNG)  
 Fig 2. Example output after input is processed.
-
+It then at the end will tell you that it is finished to alert you that it is done.
 ![screenshot](images/error2.PNG)  
 Fig 3. Feedback when an error occurs.
-
+This happens when either the username or password is incorrect.
 ## 3. Additional Considerations
 
 
