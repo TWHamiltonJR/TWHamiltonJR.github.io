@@ -6,7 +6,7 @@
 -   **Class: Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [Source Repository](https://github.com/TWHamiltonJR/Email-Messaging/tree/main))  
+-   **Source Code Repository:** [Source Repository](https://github.com/TWHamiltonJR/Email-Messaging/tree/main)    
     (Please [email me](mailto:twhamilton@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
