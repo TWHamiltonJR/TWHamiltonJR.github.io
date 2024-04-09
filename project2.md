@@ -6,7 +6,7 @@
 -   **Class: Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/TWHamiltonJR/Right-Triangle)  
+-   **Source Code Repository:** [Email-Messaging]([https://github.com/TWHamiltonJR/Right-Triangle](https://github.com/TWHamiltonJR/Email-Messaging/tree/main))  
     (Please [email me](mailto:twhamilton@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
