@@ -27,13 +27,13 @@ python newsmtp.py
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
 
-![screenshot](images/launch.PNG)  
+![screenshot](images/launch2.PNG)  
 Fig 1. The launch screen
 
-![screenshot](images/output.PNG)  
+![screenshot](images/output2.PNG)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/error.PNG)  
+![screenshot](images/error2.PNG)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
