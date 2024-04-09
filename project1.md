@@ -36,9 +36,5 @@ It then shows the baseline length and height and then changes it to a set value 
 ![screenshot](images/error.PNG)  
 Fig 3. Feedback when an error occurs.
 This error is when you attmept to input a non integer value into either the input lines.
-## 3. Additional Considerations
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
